@@ -1,6 +1,5 @@
-# ScholarMate
-
 [![CI](https://github.com/haejunbag131-maker/scholarmate-frontend/actions/workflows/ci.yml/badge.svg)](https://github.com/haejunbag131-maker/scholarmate-frontend/actions/workflows/ci.yml)
+# ScholarMate [사용자 맞춤 장학금 추천 플랫폼]
 
 > 사용자의 학적, 지역, 소득, 관심 조건을 바탕으로 장학금을 탐색하고 추천받을 수 있는 장학금 추천 플랫폼입니다.
 
